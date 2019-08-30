@@ -12,9 +12,8 @@ $(document).ready(function () {
             $('.ryu-throwing').show();
             $('.hadouken').show();
             // animate hadouken to the right of the screen
-        })
+          }) })
         .mouseup(function () {
             $('.ryu-throwing').hide();
-            $('.ryu-ready').show();
-        });
+  $('.ryu-ready').show();});
 });

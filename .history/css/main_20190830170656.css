@@ -26,7 +26,7 @@ body {
 } 
 
 .ryu-ready {
-    display: block;
+    display: none;
     background-image: url('../images/ryu-ready-position.gif');
 }
 
